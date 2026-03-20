@@ -19,7 +19,7 @@
 - 🎓 B.Sc. (Hons.) Biochemistry — University of Calcutta (2021)
 - 🔬 Bridging **Life Sciences + AI** — unique domain advantage in Healthcare ML
 - 🌱 Currently learning: Deep Learning, Azure ML, PySpark
-- 🎯 Goal: Land a Data Scientist / ML Engineer role in Healthcare AI or BFSI
+- 🎯 Goal: Land a Data Scientist, AI/ML Engineer role
 - 📍 Kolkata, India
 - 📫 Reach me: sarkar.plabon2023@gmail.com
 
@@ -68,8 +68,8 @@
 ### 📜 Certifications
 
 - ✅ python for data science
-- 🔄 
-- 🔄 
+- 
+- 
 - 🔄 
 - 📅 
 
